@@ -4,13 +4,22 @@ d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该
 d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 d:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(22): warning C4305: “初始化”: 从“double”到“float”截断
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(26): warning C4305: “初始化”: 从“double”到“float”截断
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(165): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(186): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(187): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(197): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(198): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
-d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(289): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(30): warning C4305: “初始化”: 从“double”到“float”截断
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(31): warning C4305: “初始化”: 从“double”到“float”截断
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(32): warning C4305: “初始化”: 从“double”到“float”截断
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(99): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(100): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(122): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(272): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(299): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(300): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(312): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(313): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(314): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(315): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(316): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(317): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\lip_makeup\lip_makeup\main.cpp(416): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
   Lip_Makeup.vcxproj -> D:\visual studio 2015\Projects\Lip_Makeup\x64\Debug\Lip_Makeup.exe
   Lip_Makeup.vcxproj -> D:\visual studio 2015\Projects\Lip_Makeup\x64\Debug\Lip_Makeup.pdb (Partial PDB)
